@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -cp target/classes:target/dependency/* CrunchifyRESTJerseyExample
+web: java $JAVA_OPTS -cp target/classes:target/dependency/* com.crunchify.restjersey
